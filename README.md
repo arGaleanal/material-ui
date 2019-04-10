@@ -2,7 +2,7 @@
   <a href="https://material-ui.com/" rel="noopener" target="_blank"><img width="150" src="https://material-ui.com/static/images/material-ui-logo.svg" alt="Material-UI logo"></a></p>
 </p>
 
-<h1 align="center">Material-UI</h1>
+<h1 align="center">Concredito-UX</h1>
 
 <div align="center">
 
